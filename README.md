@@ -60,7 +60,7 @@ The classification report indicates that the Random Forest model achieved nearly
 
 ![alt text](images/confusion_matrix.png)
 
-The confusion matrix (test data) reveals only misclassifications in test set, consisting of 3 false positives and 5 false negatives.
+The confusion matrix reveals only misclassifications in test set, consisting of 3 false positives and 5 false negatives.
 
 ### Feature Importance
 
